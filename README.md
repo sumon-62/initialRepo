@@ -1,5 +1,5 @@
 # initialRepo
-Introduction
-#MD. SUMON MIAH
-#CSE-2018
-#SUST
+Introduction.
+# D. SUMON MIAH
+# CSE-2018
+# SUST
